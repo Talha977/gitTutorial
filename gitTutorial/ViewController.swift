@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        print("Second print")
+        
+        
     print("HELLO WORLD")
     }
 
